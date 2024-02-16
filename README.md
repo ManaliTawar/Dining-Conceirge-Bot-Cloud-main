@@ -18,5 +18,5 @@ Procedure :
   b. Host your frontend in an AWS S3 bucket i. Set the bucket up for website hosting ii. https://docs.aws.amazon.com/AmazonS3/latest/dev/HostingWebsiteOnS3Setup.html
 
 2. Build the API for your cloud application.
-3. Build a Dining Concierge chatbot using Amazon Lex. 
+3. Build a Dining chatbot using Amazon Lex. 
   a. Create a new bot using the Amazon Lex service. Read up the documentation on all things Lex, for more information:                                                               https://docs.aws.amazon.com/lex/latest/dg/getting-started.html
